@@ -1,4 +1,4 @@
-# Getter for Java (Java Compiler plugin)
+# Getter for Java 
 
 @Getter alternative  to [Lombok](https://github.com/projectlombok/lombok) for Java 17.
 
